@@ -1,0 +1,10 @@
+requests
+tqdm
+torch
+torchvision
+tensorboard
+matplotlib
+numpy
+scikit-learn
+pillow
+umap-learn
